@@ -49,8 +49,12 @@ Any RUN commands you specify in the Dockerfile creates a new layer for the conta
 Within the platform, different container types can be used for various use cases:
 
 Certified Managed Containers.
+
 Elastic Virtual Private Servers (Elastic VPS)
+
 Custom Docker Containers.
+
 Docker Engine CE (Docker Native)
+
 Kubernetes Cluster.
 
