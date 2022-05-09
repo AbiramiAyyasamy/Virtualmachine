@@ -15,7 +15,7 @@ Development also benefited from this physical consolidation because greater util
  Operating system (OS) virtualization has grown in popularity over the last decade to enable software to run predictably and well when moved from one server environment to another. But containers provide a way to run these isolated systems on a single server or host OS.
 
 
-**What are the differences between system containers, application containers and virtual machines?
+**What are the differences between system containers, application containers and virtual machines?**
 
 In Docker, the containers running share the host OS kernel. A Virtual Machine, on the other hand, is not based on container technology. They are made up of user space plus kernel space of an operating system. Under VMs, server hardware is virtualized.
 
