@@ -47,4 +47,4 @@ The docker containers are suited for situations where you want to run multiple a
 
 But if you have applications or servers that need to run on different operating system flavors, then virtual machines are required.
 
-![vmordocker](https://user-images.githubusercontent.com/103209557/167424957-8a28661b-e42e-4f52-8046-ccc93030c4b1.png)
+
