@@ -23,7 +23,6 @@ Docker is a container-based technology that lets you develop distributed applica
 
 ### Docker(Container)
 * Containers are destroyed and re-created rather than moving
-
 * OS level process isolation
 * Boots in seconds
 * Less resource usage	
@@ -38,3 +37,14 @@ Docker is a container-based technology that lets you develop distributed applica
 * Ready-made VMs are difficult to find.
 
 ![containers-vs-virtual-machines](https://user-images.githubusercontent.com/103209557/167423739-f5b140ad-990a-47e1-a802-6a65692a9246.jpg)
+
+**In your opinion, when does it make sense to use either a virtual machine, a system container or an application container?**
+When should you use a Docker container or a virtual machine?
+
+In my opinion, when does it make sense to use either a virtual machine, a system container or an application container?
+
+The docker containers are suited for situations where you want to run multiple applications over a single operating system kernel.
+
+But if you have applications or servers that need to run on different operating system flavors, then virtual machines are required.
+
+![vmordocker](https://user-images.githubusercontent.com/103209557/167424957-8a28661b-e42e-4f52-8046-ccc93030c4b1.png)
