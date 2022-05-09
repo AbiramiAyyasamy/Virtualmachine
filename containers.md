@@ -17,4 +17,6 @@ Containers are lightweight software packages that contain all the dependencies r
 * Shared host exploits
 
 * Containers all share the same underlying hardware system below the operating system layer, it is possible that an exploit in one container could break out of the container and affect the shared hardware. Most popular container runtimes have public repositories of pre-built containers. There is a security risk in using one of these public images as they may contain exploits or may be vulnerable to being hijacked by nefarious actors.
- 
+
+![containers](https://user-images.githubusercontent.com/103209557/167378765-45330b82-c3f5-481b-b57a-0de27830ff33.png)
+
