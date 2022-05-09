@@ -24,3 +24,4 @@ Type 1. Also referred to as a bare-metal hypervisor, this type of hypervisor run
 Type 2. Sometimes called a hosted hypervisor, a Type 2 hypervisor is installed on top of the host machine's OS, which manages calls to the hardware resources. Type 2 hypervisors are generally deployed on end-user systems for specific use cases. For example, a developer might use a Type 2 hypervisor to create a specific environment for building an application, or a data analyst might use it to test an application in an isolated environment. Examples of Type 2 hypervisors include VMware Workstation and Oracle VirtualBox.
 
 **Can you list some VM technologies and explain their use?**
+![VM](https://user-images.githubusercontent.com/103209557/167372361-1a26e14d-9f9f-4eca-953f-6ffe88f44ce3.jpg)
